@@ -4,7 +4,7 @@
 I'm a passionate coder from Singapore and Georgia, and I enjoy working with Dart and JavaScript as my main programming languages. Coding is not just my profession but also my hobby. I love to explore new technologies and develop exciting projects in my free time.
 
 ## 🔭 What I'm Currently Working On
-- [TrafLogger](https://t.me/auloaulo): A private project for collage project that will help companies and their employees by checking if the emoloyee is on the way to office and if he has faced traffic or something it will be notified to the boss so the employee can't make excuses of traffic.
+- [TrafLogger](https://t.me/auloaulo): A private collage project that will help companies and their employees by checking if the emoloyee is on the way to office and if he has faced traffic or something it will be notified to the boss so the employee can't make excuses of traffic.
 
 ## 🌱 What I'm Currently Learning
 I'm currently focusing on improving my skills in the following areas:
