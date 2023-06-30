@@ -10,6 +10,7 @@ I'm a passionate coder from Singapore and Georgia, and I enjoy working with Dart
 I'm currently focusing on improving my skills in the following areas:
 - Advanced Dart concepts.
 - Node.js for server-side JavaScript development.
+
 ![Aulo's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=aulolua&show_icons=true)
 
 ## 💡 What I'm Interested In
