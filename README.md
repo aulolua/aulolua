@@ -1,3 +1,4 @@
+<div align="center">
 # Hi there, I'm [Aulo]! 👋
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulolua&show_icons=true)](https://github.com/aulolua)
 
@@ -30,3 +31,4 @@ Feel free to reach out to me through the following channels:
 Did you know? Coding challenges and puzzles are my favorite way to sharpen my problem-solving skills!
 
 Let's connect and collaborate on interesting projects! Looking forward to the journey ahead. 😄
+</div>
