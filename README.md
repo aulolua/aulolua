@@ -1,5 +1,5 @@
 <div align="center">
-  ##
+  <br>
 # Hi there, I'm [Aulo]! 👋
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulolua&show_icons=true)](https://github.com/aulolua)
 
