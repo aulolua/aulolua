@@ -2,7 +2,7 @@
   
 # Hi there, I'm [Aulo]! 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulolua&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/aulolua)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulolua&show_icons=true&theme=tokyonight)](https://github.com/aulolua)
 
 I'm a passionate coder from Singapore and Georgia, and I enjoy working with Dart and JavaScript as my main programming languages. Coding is not just my profession but also my hobby. I love to explore new technologies and develop exciting projects in my free time.
 
