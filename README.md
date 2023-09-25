@@ -4,13 +4,14 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aulolua&show_icons=true&theme=tokyonight)](https://github.com/aulolua)
 
-I'm a passionate coder from Singapore and Georgia, and I enjoy working with Dart and JavaScript as my main programming languages. Coding is not just my profession but also my hobby. I love to explore new technologies and develop exciting projects in my free time.
+I'm a passionate coder from Singapore and Georgia, and I enjoy working with VB.net , JavaScript , Dart , F# & C#. Coding is not just my profession but also my hobby. I love to explore new technologies and develop exciting projects in my free time.
 
 ## 🔭 What I'm Currently Working On
 - [TrafLogger](https://t.me/auloaulo): A private collage project that will help companies and their employees by checking if the emoloyee is on the way to office and if he has faced traffic or something it will be notified to the boss so the employee can't make excuses of traffic.
 
 ## 🌱 What I'm Currently Learning
 I'm currently focusing on improving my skills in the following areas:
+- Advanced .Net concepts
 - Advanced Dart concepts.
 - Node.js for server-side JavaScript development.
 
@@ -22,6 +23,8 @@ I'm interested in various topics related to software development, including:
 - Web development using JavaScript and Node.js.
 - Open-source projects.
 - UI/UX design.
+- Desktop Applications
+- Bug exploits.
 
 ## 📫 How to Reach Me
 Feel free to reach out to me through the following channels:
